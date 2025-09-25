@@ -1,14 +1,45 @@
-Prompt used to make this web page
+“Create a modern responsive webpage using HTML and Tailwind CSS. It should include:
 
-“Make me a simple, modern webpage using HTML and Tailwind CSS.
-It should have:
+Navbar
 
-A clean navbar with a logo on the left and some links on the right.
+Minimal top navigation bar
 
-A hero section with a big background image, a bold heading in the center, and a short subheading below.
+Logo on the left, navigation links on the right
 
-A content section below the hero, laid out in a grid with 4 cards (2 per row) — each card should have a title, description, and a subtle shadow.
+A ‘Sign Up’ or ‘Login’ button
 
-A minimal footer with some links and copyright text.
+Hero Section
 
-Keep it responsive, neat, and easy to read.”
+Large background or hero image with text overlay (title + description)
+
+Clean, centered, modern typography
+
+Content Sections
+
+Multiple sections stacked vertically with alternating image + text layouts
+
+Some sections with colored background blocks behind images (like pastel yellow, green, purple)
+
+At least one section with a video thumbnail (play button overlay)
+
+Grid layout for showcasing company/team images
+
+Team/Company Info Section
+
+Text about company/team values on one side, image(s) on the other
+
+Use a balanced layout with whitespace
+
+Call-to-Action Section
+
+Short text about joining the team/company
+
+A “See Jobs” button with highlighted background
+
+Footer
+
+Minimal footer with company logo, social media icons, quick links, newsletter signup, and language selector
+
+Light background, clean typography
+
+Keep it responsive for mobile, tablet, and desktop. Use Tailwind utilities for spacing, grids, flexbox, typography, shadows, and background colors. Maintain a minimal, professional, and neat style.”
